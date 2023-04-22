@@ -4,7 +4,7 @@
   "description": "api for porfolio website",
   "main": "index.js",
   "engines": {
-    "node": "14.X"
+    "node": "18.X"
   },
   "scripts": {
     "start": "node index.js",
