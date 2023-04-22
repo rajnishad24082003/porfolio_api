@@ -1,7 +1,7 @@
 {
   "name": "portfolio_api",
   "version": "1.0.0",
-  "description": "api for porfolio website",
+  "description": "api for porfolio websites",
   "main": "index.js",
   "engines": {
     "node": "18.X"
